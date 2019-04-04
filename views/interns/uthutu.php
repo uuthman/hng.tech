@@ -14,7 +14,7 @@
                         <ul class="list">
                             <li><a href="https://twitter.com/uthu_tu" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                             <li><a href="https://github.com/uuthman" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                            <li><a href="https://medium.com/@adamichelllle" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                            <li><a href="https://medium.com/ayinde-uthman" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                     </div>
                 </div>
